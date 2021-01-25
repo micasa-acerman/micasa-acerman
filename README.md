@@ -35,8 +35,8 @@ I live in Russia (St.Petesburg). </br>
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-718093?style=for-the-badge&logo=wordpress&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-718093?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ### Mobile stack
-![JAVA](https://img.shields.io/badge/-HTML-353b48?style=for-the-badge&logo=java&logoColor=ffffff)
-![KOTLIN](https://img.shields.io/badge/-CSS-353b48?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/-JAVA-353b48?style=for-the-badge&logo=java&logoColor=ffffff)
+![KOTLIN](https://img.shields.io/badge/-KOTLIN-353b48?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 ![SWITFT](https://img.shields.io/badge/-SWIFT-353b48?style=for-the-badge&logo=swift&logoColor=ffffff)
 ![REACT NATIVE](https://img.shields.io/badge/-REACT%20NATIVE-353b48?style=for-the-badge&logo=react&logoColor=ffffff)
 ![DAGGER2](https://img.shields.io/badge/-DAGGER%202-353b48?style=for-the-badge&logoColor=ffffff)
