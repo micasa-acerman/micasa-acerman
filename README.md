@@ -1,9 +1,5 @@
 <a href='https://www.codewars.com/users/micasa-acerman'><img alt="CodeWars" height="30px" width="300px" src="https://www.codewars.com/users/micasa-acerman/badges/large" /></a>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=for-the-badge&logo=instagram&logoColor=FFFFFF)][instagram]
-[![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=FFFFFF)][telegram]
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=FFFFFF)][vk]
-
 [vk]: https://vk.com/unnamed_wanderer/
 [telegram]: https://t.me/micasa_acerman1/
 [instagram]: https://www.instagram.com/mikasa.acerman/
@@ -55,5 +51,4 @@ I live in Russia (St.Petesburg). </br>
 
 
 ### Contact us
-email - <a href="email:koha009@yandex.ru">koha009@yandex.ru</a> <br />
-phone - <a href="tel:+79094778978">+7(909)-477-89-78</a> <br />
+email - <a href="email:koha009@yandex.ru">chrimsonm@yandex.ru</a> <br />
