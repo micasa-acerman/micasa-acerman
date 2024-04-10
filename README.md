@@ -8,7 +8,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=micasa-acerman&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micasa-acerman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-My name is Kostya and i'm 22 years old programmer! <br />
+My name is Kostya and i'm 25 years old programmer! <br />
 I'm web(react), mobile(fullstack) developer. <br />
 I'm learning to be a web designer (UX) and js backend ! <br />
 I live in Russia (St.Petesburg). </br>
