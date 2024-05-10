@@ -11,7 +11,6 @@
 My name is Kostya and i'm 25 years old programmer! <br />
 I'm web(react), mobile(fullstack) developer. <br />
 I'm learning to be a web designer (UX) and js backend ! <br />
-I live in Russia (St.Petesburg). </br>
 ## Languages and Tools
 ### Frontend stack
 ![HTML](https://img.shields.io/badge/-HTML-192a56?style=for-the-badge&logo=html5&logoColor=ffffff)
